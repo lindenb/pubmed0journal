@@ -1,0 +1,12 @@
+{
+    "author": "Pierre Lindenbaum PhD @yokofaun", 
+    "description": "Hide Journals from Pubmed", 
+    "homepage": "https://github.com/lindenb/pubmed0journal", 
+    "icon": "data/pubmed.png", 
+    "icon64": "data/pubmed.png", 
+    "id": "pubmed0journal@univ-nantes.fr", 
+    "license": "Apache 2.0", 
+    "name": "pubmed0journal", 
+    "title": "Pubmed0Journal", 
+    "version": "0.1"
+}
